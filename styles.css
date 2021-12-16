@@ -1,0 +1,459 @@
+/* COLLECTION */
+.body_home {
+  background-color: #CBC6BE;
+  color: white;
+}
+
+.collection_title {
+  font-family: 'Jeju Gothic', sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 96px;
+  color: white;
+  margin-top: 190px;
+  position: absolute;
+  z-index: 3;
+  text-align: center;
+  width: 100%;
+}
+
+.skull_title {
+  font-family: 'Jaldi', sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 55px;
+  color: white;
+  margin-top: 330px;
+  position: absolute;
+  z-index: 3;
+  text-align: center;
+  width: 100%;
+}
+
+.mush_title {
+  font-family: 'Jaldi', sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 55px;
+  color: white;
+  margin-top: 400px;
+  position: absolute;
+  z-index: 3;
+  text-align: center;
+  width: 100%;
+}
+
+.skull_black_white {
+  max-width: 838px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 208px;
+  filter: grayscale(1);
+  z-index: 2;
+  position: relative;
+}
+
+.mini_skull {
+  max-width: 570px;
+  display: block;
+  margin-left: 860px;
+  margin-top: -620px;
+  position: relative;
+  z-index: 1;
+  filter: grayscale(1);
+  opacity: 75%;
+}
+
+.skull_home {
+  max-height: 929px;
+  z-index: 3;
+  position: relative;
+  margin-top: -450px;
+  margin-left: 800px;
+}
+
+.skull_top_home {
+  z-index: 3;
+  position: absolute;
+  object-fit: cover;
+  height: 321px;
+  width: 252px;
+  margin-left: 440px;
+  margin-top: -450px;
+  mix-blend-mode: difference;
+  filter: grayscale(1);
+}
+
+.small_mush_home {
+  max-width: 187px;
+  filter: grayscale(1);
+  z-index: 4;
+  position: absolute;
+  opacity: 85%;
+  margin-left: 650px;
+  mix-blend-mode: difference;
+  margin-top: -290px;
+}
+
+.small_mush_home2 {
+  max-width: 187px;
+  filter: grayscale(1);
+  z-index: 4;
+  position: absolute;
+  opacity: 85%;
+  margin-left: 460px;
+  mix-blend-mode: difference;
+  margin-top: -850px;
+}
+
+.singular_mush {
+  max-width: 353px;
+  position: absolute;
+  margin-top: -650px;
+  margin-left: 370px;
+}
+
+/* OBJECT B
+----------------------------------------------- */
+.body_mushroom {
+  background-color: #97956B;
+  margin: 0;
+}
+
+.rounded_mushroom {
+  max-width: 1045px;
+  background-color: #B4B184;
+  min-height: 13px;
+  border: 0;
+  border-radius: 10px;
+  opacity: 50%;
+  margin-top: 980px;
+}
+
+.mush_round {
+  border-radius: 287.5px;
+  max-width: 798px;
+  margin-left: 630px;
+  margin-top: 70px;
+  position: absolute;
+  opacity: 75%;
+  z-index: 2;
+}
+
+.two_mush {
+  max-width: 507px;
+  margin-top: 450px;
+  position: absolute;
+  margin-left: 397px;
+  opacity: 85%;
+  z-index: 1;
+}
+
+.dark_mush {
+  max-height: 438px;
+  margin-top: 450px;
+  margin-left: 997px;
+  position: absolute;
+  border-radius: 67px;
+  z-index: 3;
+}
+
+.mush_illustrations {
+  max-width: 1000px;
+  margin-top: 100px;
+  margin-left: 140px;
+  opacity: 85%;
+  position: absolute;
+}
+
+.mush_illustrations_1 {
+  max-width: 1000px;
+  margin-top: 80px;
+  margin-left: 120px;
+  opacity: 15%;
+  position: absolute;
+}
+
+.mush_illustrations_2 {
+  max-width: 1000px;
+  margin-top: 120px;
+  margin-left: 180px;
+  opacity: 15%;
+  position: absolute;
+  padding-bottom: 50px;
+}
+
+/* OBJECT A
+----------------------------------------------- */
+.skull-round{ 
+  border-radius: 188px;
+  max-width: 590px;
+  height: 376px;
+  margin-left: 830px;
+  margin-top: 70px;
+  position: absolute;
+  z-index: 2;
+}
+
+.skull-zoom{
+  max-width: 650px;
+  margin-top: 340px;
+  position: absolute;
+  margin-left: 397px;
+  opacity: 90%;
+  z-index: 3;
+}
+
+.skull-top{
+  max-width: 489px;
+  margin-top: 400px;
+  margin-left: 997px;
+  position: absolute;
+  border-radius: 21px;
+  z-index: 1;
+}
+
+.body_skull {
+  background-color: #b6ada5;
+  margin: 0;
+}
+
+.rounded {
+  max-width: 1045px;
+  background-color: #DAD5D0;
+  min-height: 13px;
+  border: 0;
+  border-radius: 10px;
+  opacity: 50%;
+  margin-top: 890px;
+}
+
+.skull_illustrations {
+  max-width: 1000px;
+  margin-top: 100px;
+  margin-left: 140px;
+  opacity: 85%;
+  position: absolute;
+}
+
+.skull_illustrations_1 {
+  max-width: 1000px;
+  margin-top: 60px;
+  margin-left: 120px;
+  opacity: 15%;
+  position: absolute;
+}
+
+.skull_illustrations_2 {
+  max-width: 1000px;
+  margin-top: 120px;
+  margin-left: 160px;
+  opacity: 15%;
+  position: absolute;
+  padding-bottom: 50px;
+}
+
+/* TYPOGRAPHY
+----------------------------------------------- */
+a {
+  text-decoration: none;
+  color: white;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.paragraph {
+  margin-top: 200px;
+  max-width: 530px;
+  margin-left: 870px;
+  position: absolute;
+  font-size: 26px;
+  color: #3F3B3B;
+}
+
+
+/* NAVIGATION
+----------------------------------------------- */
+.header_skull {
+   font-family: 'Jaldi', sans-serif;
+   letter-spacing: 0.07em;
+   background: #A09790;
+   color: white;
+   min-height: 92px;
+}
+
+.header_mushroom {
+  font-family: 'Jaldi', sans-serif;
+  letter-spacing: 0.07em;
+  background: #7B7A56;
+  color: white;
+  min-height: 92px;
+}
+
+.collection {
+  font-size:40px;
+  padding-left: 30px;
+  padding-top: 20px;
+  position: absolute;
+  opacity: 85%;
+  overflow: hidden;
+}
+
+.object-a{
+  float: right;
+  font-size: 32px;
+  padding-right: 80px;
+  padding-top: 27px;
+  opacity: 85%;
+  overflow-x: hidden;
+}
+
+.object-b{
+  float: right;
+  font-size: 32px;
+  padding-top: 27px;
+  padding-right: 55px;
+  opacity: 85%;
+  overflow-x: hidden;
+}
+
+.container1{
+  background-color: #DAD5D0;
+  height: 7px;
+  width: 100%;
+  margin-top: 100px;
+  position: absolute;
+  opacity: 32%;
+}
+
+.container2{
+  background-color: #B4B184;
+  height: 7px;
+  width: 100%;
+  margin-top: 100px;
+  position: absolute;
+  opacity: 90%;
+}
+
+/* TYPE
+----------------------------------------------- */
+@import url(//fonts.googleapis.com/earlyaccess/jejugothic.css);
+
+h1 {
+  font-family: 'Jeju Gothic', sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 80px;
+  line-height: 104px;
+  letter-spacing: -0.04em;
+  color: white;
+  margin-top: 245px;
+  margin-left: 450px;
+  position: absolute;
+  z-index: 3;
+}
+
+h2 {
+  font-family: 'Jeju Gothic', sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 80px;
+  line-height: 104px;
+  letter-spacing: -0.04em;
+  color: white;
+  margin-top: 245px;
+  margin-left: 400px;
+  position: absolute;
+  z-index: 3;
+  opacity: 15%;
+}
+
+h3{
+  font-family: 'Jeju Gothic', sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 80px;
+  line-height: 104px;
+  letter-spacing: -0.04em;
+  color: white;
+  margin-top: 245px;
+  margin-left: 490px;
+  position: absolute;
+  z-index: 3;
+  opacity: 15%;
+}
+
+h4{
+  font-family: 'Jeju Gothic', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 80px;
+    letter-spacing: -0.04em;
+    color: white;
+    margin-top: 270px;
+    margin-left: 304px;
+    position: absolute;
+    z-index: 3;
+    max-width: 600px;
+    text-align: right;
+    line-height: 90px;
+}
+
+h5{
+  font-family: 'Jeju Gothic', sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 80px;
+  letter-spacing: -0.04em;
+  color: white;
+  margin-top: 270px;
+  margin-left: 230px;
+  position: absolute;
+  z-index: 3;
+  max-width: 600px;
+  text-align: right;
+  line-height: 90px;
+  opacity: 15%;
+}
+
+h6{
+  font-family: 'Jeju Gothic', sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 80px;
+  letter-spacing: -0.04em;
+  color: white;
+  margin-top: 270px;
+  margin-left: 400px;
+  position: absolute;
+  z-index: 3;
+  max-width: 600px;
+  text-align: right;
+  line-height: 90px;
+  opacity: 20%;
+}
+
+p{
+  font-family: 'Habibi', serif;
+}
+
+/* FOOTER
+----------------------------------------------- */
+.skull_footer {
+  background-color: #A09790;
+  min-height: 14px;
+  position: fixed;
+  bottom: 0px;
+  width: 100%;
+}
+
+.mushroom_footer {
+  background-color: #82805B;
+  min-height: 14px;
+  position: fixed;
+  bottom: 0px;
+  width: 100%;
+}
